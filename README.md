@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [AbanoubEMhanna](https://github.com/AbanoubEMhanna?tab=repositories) and [abanoubEssam](https://github.com/abanoubEssam?tab=repositories)
 
-- 💬 Ask me about ** Javascript , Typescript , Nodejs , Expressjs , Nestjs , Mongodb , MySQL , PostgreSQL , Oracle , Java , Python , Docker , HTML , CSS , Reactjs , Nextjs , React Native , Flutter**
+- 💬 Ask me about ** Javascript , Typescript , Nodejs , Expressjs , Nestjs , Mongodb , MySQL , PostgreSQL , Oracle , Java , Python , Docker , HTML , CSS , Reactjs , Nextjs , Flutter**
 
 - 📫 How to reach me **abanoub.e.mhanna@gmail.com**
 
