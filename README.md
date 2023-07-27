@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/20130130essam" target="blank"><img src="https://img.shields.io/twitter/follow/20130130essam?logo=twitter&style=for-the-badge" alt="20130130essam" /></a> </p>
 
-- 🌱 I’m currently learning ** Web 3.0 **
+- 🌱 I’m currently learning **Web 3.0**
 
 - 👨‍💻 All of my projects are available at [AbanoubEMhanna](https://github.com/AbanoubEMhanna?tab=repositories) and [abanoubEssam](https://github.com/abanoubEssam?tab=repositories)
 
-- 💬 Ask me about ** Javascript , Typescript , Nodejs , Expressjs , Nestjs , Mongodb , MySQL , PostgreSQL , Oracle , Java , Python , Docker , HTML , CSS , Reactjs , Nextjs , Flutter**
+- 💬 Ask me about **Javascript , Typescript , Nodejs , Expressjs , Nestjs , Mongodb , MySQL , PostgreSQL , Oracle , Java , Python , Docker , HTML , CSS , Reactjs , Nextjs , Flutter**
 
 - 📫 How to reach me **abanoub.e.mhanna@gmail.com** , **https://www.abanoubessam.com/**
 
